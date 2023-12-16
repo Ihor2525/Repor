@@ -1,2 +1,2 @@
 let number1 = Math.floor(Math.random() * 100)
-console.log(number ,`Это нечетное число`)
+console.log(97 ,`Это нечетное число`)
